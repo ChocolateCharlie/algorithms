@@ -11,6 +11,7 @@
 
 
 
+void    mergeSort(std::vector<int> &v);
 void    selectionSort(std::vector<int> &v);
 
 #endif // SORTS_H_INCLUDED
